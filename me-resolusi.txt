@@ -1,5 +1,5 @@
 me-resolusi :
 1. membangun development principles
 2. membangun automation deployment
-3. membangun microservices
 4. internal project lebh diperbanyak
+5. new resolusi
